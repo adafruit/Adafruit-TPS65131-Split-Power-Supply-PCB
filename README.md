@@ -1,4 +1,4 @@
-## Adafruit TPS65131 Split Power Supply Boost Converter - +6~15 / -6V~-15V PCB
+## Adafruit TPS65131 Split Power Supply Boost Converter - +6 ~ 15 / -6V ~ -15V PCB
 
 <a href="http://www.adafruit.com/products/6280"><img src="assets/6280.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
